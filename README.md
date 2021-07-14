@@ -1,6 +1,6 @@
 Welcome to the NerdyJoy App repository! 
 
-Down below are rules for using this repository: 
+Down below is a guide for developers this repository: 
 
 1. Add comments to your code to make the function of the code clear (it will be easier to read & understand your code.)  
 
